@@ -12,6 +12,7 @@ html {
 }
 
 .form {
+    font-size: 30px;
     text-align: center;
     background-color: floralwhite;
     margin: 100px 300px 200px 300px; 
