@@ -4,7 +4,7 @@
 
 This is my second project created for my learning programming. <br>
 This project present a simple currency converter of PLN to EUR, GBP or USD. <br>
-I have used the following programming technologies: 
+I used the following programming technologies: 
 
 -HTML<br>
 -CSS<br>
