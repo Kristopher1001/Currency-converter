@@ -12,7 +12,7 @@ I used the following programming technologies:
 -JAVA SCRIPT<br>
 -BEM convention
 
-![Kaczor Donald](images/giphy.gif)
+![Kaczor Donald](images/screen.jpg)
 
 ## Link to the converter
 
