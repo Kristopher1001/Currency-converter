@@ -7,6 +7,7 @@ html {
 }
 
 .body {
+    overflow-x: auto;
     background-image: 
     url(https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 }
@@ -15,7 +16,6 @@ html {
     font-size: 30px;
     text-align: center;
     background-color: floralwhite;
-    margin: 100px 300px 200px 300px; 
+    margin: 200px 500px 200px 500px; 
     padding: 50px;
-
 }
