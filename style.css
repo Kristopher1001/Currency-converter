@@ -12,10 +12,24 @@ html {
     url(https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 }
 
+@media(max-width: 767px) {
+    .body {
+        width: 100%;
+    }
+}
+
 .form {
     font-size: 30px;
     text-align: center;
     background-color: floralwhite;
     margin: 200px 500px 200px 500px; 
     padding: 50px;
+    width: 100%;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+    
